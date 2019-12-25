@@ -6,7 +6,7 @@ Clone This Project (Make Sure You Have Git Installed)
 https://github.com/shivam-mnnit/Django-blog-app
 ```
 
-Install Dependencies
+Install Dependencies as follows
 ```
 pip install -r requirements.txt
 ```
